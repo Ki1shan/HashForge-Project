@@ -35,6 +35,12 @@ All cracking operations run in background threads — the GUI stays fully respon
 
 ---
 
+## Images 
+
+<img width="1370" height="905" alt="image" src="https://github.com/user-attachments/assets/7f79fb1a-2960-414b-89ab-1932f8b0feaa" />
+<img width="1367" height="905" alt="image" src="https://github.com/user-attachments/assets/23abf275-17f4-4981-b0ec-9941667e2347" />
+
+---
 ## Features
 
 ### 🔨 Hash Cracking
